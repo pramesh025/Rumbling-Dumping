@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.page {
+  min-height: 100vh;
+  border: 1px solid black;
+}
